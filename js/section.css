@@ -1,0 +1,91 @@
+section{
+    width: 100%;
+    height: 47.7rem;
+}
+section .contenedor{
+    width:  35%;
+    height: 47.5rem;
+    background-color: rgba(255, 255, 255, 0.968);
+    margin-left: 10rem;
+    display: grid;
+    padding: 2rem;
+
+}
+section .motito{
+
+    font-size: 3rem;
+    text-align: center;
+}
+section .motito1{
+    font-size: 30rem;
+}
+textarea{
+    position: absolute;
+    margin-top: 15rem;
+    margin-left: 50rem;
+}
+button{
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 90rem;
+    background-color: black;
+    width: 15rem;
+    height: 30rem;
+}
+button {
+    background-color: #1b241b; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 3rem; 
+    border-radius: 8px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+  
+button:hover {
+    background-color: #445145; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+
+textarea {
+    width: 300px;
+    position: absolute;
+    margin-top: 15rem;
+    margin-left: 50rem;
+  }
+  
+textarea {
+    width: 35rem; 
+    height: 3rem; 
+    resize: none;
+    font-size: 2rem; 
+    line-height: 1.5; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    padding: 10px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+
+
+.pp {
+    width: 300px;
+    position: absolute;
+    margin-top: 30rem;
+    margin-left: 50rem;
+  }
+  
+.pp {
+    width: 35rem; 
+    height: 3rem; 
+    resize: none;
+    font-size: 2rem; 
+    line-height: 1.5; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    padding: 10px; 
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  }
+  
